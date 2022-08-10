@@ -1,6 +1,9 @@
 👋 Hi, I’m @JDDMR03
+
 👀 I’m interested in competitive programing and software desing
+
 🌱 I’m currently learning sotware technologies
+
 📘 I'm studying a engineering at UANL
 
 <!---
