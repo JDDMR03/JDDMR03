@@ -12,6 +12,4 @@
 </picture>
 </div>
 
-<img src="https://raw.githubusercontent.com/JDDMR03/JDDMR03/output/snake.svg" alt="Snake animation" />
-
 ###
